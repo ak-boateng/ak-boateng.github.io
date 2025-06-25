@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "RCPPO"
+excerpt: "Machine Learning In Tourism Planning, Forcasting, Personalized Recommendations And Future Prospects In Fraud Prevention And Security: A Case Of Indonesia (Toursafe)"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In this project I designed the user interaface and trained the model using collabrative filtering. Additionally, I designed the algorithm for the model to get the user input and display the results based on their preferences which is captured in the methodology of the work [here](https://docs.google.com/document/d/1r9ufHXz6Vz5IHYDRJ2RYfthpLJWXLmRVtb-NHpBJF3U/edit?usp=sharing). The code for this project can be found [here](https://github.com/raphaelgogo/Tour_Safe.git).
