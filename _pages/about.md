@@ -28,11 +28,11 @@ As the founder of Trace Digital Hub, I designed and deployed over 10 custom Word
 
 ## 👨🏻‍💻 Professional Experience
 
-    - **Advanced AI Data Trainer at Invisible Technologies (2024–Present):**
-    Trained and fine-tuned AI models using Reinforcement Learning and Supervised Learning, optimizing decision-making and reducing error rates. Conducted quality analysis to ensure ethical AI standards.
+  - **Advanced AI Data Trainer at Invisible Technologies (2024–Present):**
+  Trained and fine-tuned AI models using Reinforcement Learning and Supervised Learning, optimizing decision-making and reducing error rates. Conducted quality analysis to ensure ethical AI standards.
 
-    - ** Teaching Assistant at University of Cape Coast (2024–Present):**
-    Led tutorials for 300+ students in Database Management Systems, designing assessments and providing feedback to bridge learning gaps.
+  - **Teaching Assistant at University of Cape Coast (2024–Present):**
+  Led tutorials for 300+ students in Database Management Systems, designing assessments and providing feedback to bridge learning gaps.
 
 ## 📚 Teaching & Community Engagement
 
