@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistantship Experience"
 collection: teaching
 type: "Tutorials"
 permalink: /teaching/2024-academic-year-teaching
-venue: "University of Cape C, Department"
-date: 2024-10-01
+venue: "University of Cape Coast, Department of Computer Science and Information Technology"
+date: 2024-10-01 - 2025-09-30
 location: "Cape Coast, Ghana"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+ Led weekly discussion sessions and tutorials for Database Management Systems, breaking down advanced topics into digestible explanations
+Designed quizzes and assignments aligned with course objectives to evaluate student understanding. Provided detailed feedback and held office hours to address student concerns for over 300 students.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
