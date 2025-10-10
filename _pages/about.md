@@ -36,6 +36,6 @@ As the founder of Trace Digital Hub, I designed and deployed over 10 custom Word
 
 ## 📚 Teaching & Community Engagement
 
-I actively share my expertise in Computer Science and freelancing through my [YouTube Channel](https://youtube.com/@ameseseboateng), where I create tutorials on programming (Python, JavaScript), ML concepts, and project walkthroughs. As a Google Developer Student Clubs (GDSC) Core Team Member, I facilitated workshops and meetups to empower student developers. My volunteer work includes training 20+ young adults in IT skills (Microsoft Office, typing) and providing technical support for community initiatives.
+I actively share my expertise in Computer Science and freelancing through my [YouTube Channel](https://youtube.com/@ameseseboateng), where I create tutorials, and share resources. As a Google Developer Student Clubs (GDSC) Core Team Member, I facilitated workshops and meetups to empower student developers. My volunteer work includes training 20+ young adults in IT skills (Microsoft Office, typing) and providing technical support for community initiatives. I am also contributing to STEM Education by volunteering at Ghana Robotics Competition 2024 & 2025 by [FireflyIO](https://fireflyio.com/).
 
 
