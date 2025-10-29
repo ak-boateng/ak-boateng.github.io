@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorials"
 permalink: /teaching/2024-academic-year-teaching
 venue: "University of Cape Coast, Department of Computer Science and Information Technology"
-date: 2024-10-01 - 2025-09-30
+date: 2024-10-01
 location: "Cape Coast, Ghana"
 ---
 
