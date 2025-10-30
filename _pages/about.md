@@ -10,9 +10,11 @@ redirect_from:
 
 👨🏻‍💻 I am a recent Computer Science graduate from the University of Cape Coast
 
-🔬 My research interests lie at the intersection of Data Science and Machine Learning, with a focus on practical applications of Big Data analytics, Data Mining, and Database Systems.
+🔬 My research interests span Machine Learning, Natural Language Processing, and Database Systems—particularly how these areas intersect to create efficient, intelligent data systems.
 
-📚 I'm currently working towards my Graduate School Application in the field of Machine Learning.
+📊 I'm exploring several directions: training and evaluating large language models, optimizing database systems for ML workloads, and applying reinforcement learning to real-world problems. My undergraduate work focused on NLP pipelines and ML-based forecasting, and I'm currently deepening my foundations through Google's AI Research course.
+
+🎯 I'm actively seeking M.Sc. opportunities in Computer Science where I can contribute to research in ML systems, NLP, computational optimization, or sustainable AI—and I'm excited to discover where my interests solidify through graduate research.
 
 📽️ I am also interested in assisting others on their path in the world of Computer Science and academia.
 
