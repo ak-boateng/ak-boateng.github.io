@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Amesese's Homepage"
+title                    : "Amesese Boateng"
 title_separator          : "-"
 name                     : &name "Amesese Boateng"
-description              : &description "I am a recent Computer Science graduate from the University of Cape Coast with a passion for leveraging data to solve real-world problems. My experience spans machine learning, web development, and data analytics, complemented by leadership in volunteer initiatives and technical training. This portfolio is designed to reflect my technical proficiency and commitment to impactful solutions."
+description              : &description "Building information systems for the people and places most tools forget."
 url                      : https://ak-boateng.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ak-boateng.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Amesese Boateng"
   pronouns         : # example: "she/her"  
-  bio              : "Data Science, ML Specialization"
+  bio              : "Prospective Ph.D. researcher in Information Science & Educational Technology"
   location         : "Cape Coast, Ghana"
   employer         : "University of Cape Coast"
   uri              : # URL

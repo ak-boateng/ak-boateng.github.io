@@ -8,36 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-👨🏻‍💻 I am a recent Computer Science graduate from the University of Cape Coast
+I am Amesese Boateng, a Computer Science graduate from the University of Cape Coast, Ghana (B.Sc., 2024; CGPA 3.6/4.0), preparing for doctoral study in Information Science and Educational Technology.
 
-🔬 My research interests span Machine Learning, Natural Language Processing, and Database Systems—particularly how these areas intersect to create efficient, intelligent data systems.
+My path into these fields came through building things. As a researcher at UCC’s Big Data Lab, I built an NLP pipeline to classify academic publications by Sustainable Development Goal — and found that every classification decision was also a decision about whose knowledge counts and how it gets organised. As a Teaching Assistant for over 300 undergraduate students, I watched learning technology fail the learners it was supposed to serve, because it had been designed for a different user in a different context. As a founder, I built Confam, a MoMo-native sales and stock accountability tool for Ghanaian small businesses, and Perimeta AI, an offline-first sovereign AI system for organisations in low-connectivity environments. Each product deepened the same question: what does it mean to design information and learning systems for people and places that most of the field’s literature does not imagine?
 
-📊 I'm exploring several directions: training and evaluating large language models, optimizing database systems for ML workloads, and applying reinforcement learning to real-world problems. My undergraduate work focused on NLP pipelines and ML-based forecasting, and I'm currently deepening my foundations through Google's AI Research course.
+That question is now my research agenda. I am interested in information organisation, human information behaviour, and the design of AI-assisted systems for underrepresented contexts — particularly sub-Saharan Africa. I bring a technical background in NLP, machine learning, RLHF, and full-stack development, alongside experience teaching, researching, and building in the Ghanaian tech ecosystem.
 
-🎯 I'm actively seeking M.Sc. opportunities in Computer Science where I can contribute to research in ML systems, NLP, computational optimization, or sustainable AI—and I'm excited to discover where my interests solidify through graduate research.
+I am currently applying to doctoral programmes in Information Science and Educational Technology at universities across the United States for Fall/Spring 2027, supported by a strong record of research, teaching, and product development.
 
-📽️ I am also interested in assisting others on their path in the world of Computer Science and academia.
+---
 
-Welcome to my professional portfolio, showcasing my expertise in Data Science with a focus on Machine Learning (ML). This portfolio highlights my education, work experience, projects, achievements, and skills, demonstrating my readiness for advanced opportunities in data science, machine learning research, and education.
+## From Computer Science to Information Science
 
-# Selected Experience
-## 🤖 Open Source & Research Contributions
+> "CS gave me the methods. It did not give me the vocabulary to study the power embedded in those methods."
 
-I developed a Tourist Sites Recommendation System as my final project, integrating a full-stack application with a Machine Learning (ML) solution to provide personalized travel suggestions. Additionally, I contributed to AI model training at Invisible Technologies, specializing in Reinforcement Learning and Supervised Fine-Tuning to improve model accuracy and ethical compliance.
-## 📜 Practical Implementations & Freelancing
+I did not arrive at Information Science from a library or a policy background. I arrived from a noisy corpus of academic text, a pipeline that kept breaking, and a question I could not answer with code alone.
 
-As the founder of Trace Digital Hub, I designed and deployed over 10 custom WordPress websites, leveraging CMS tools and frontend technologies (React, JavaScript) to enhance clients’ digital presence. My freelancing experience also includes building practical tools like a Blood Bank Management System (React) and an Inventory Management System (JavaFX), demonstrating my ability to translate theory into real-world solutions.
+At the University of Cape Coast’s Big Data Lab, I built an NLP system to classify academic publications by Sustainable Development Goal. The engineering was tractable. What was not tractable was the question underneath it: who decides which knowledge counts, which communities it reaches, and in what form? Every classification decision my system made was also a decision about whose work fits and what gets lost in the translation. Computer Science gave me no framework for that question. Information Science does.
 
-## 👨🏻‍💻 Professional Experience
+The same tension runs through everything I have built. Confam, a mobile-money tool for Ghanaian small businesses, is an argument about whose financial records deserve to be legible. Perimeta AI, an offline AI system, is a statement about who gets to own their intelligence. I kept building for a user that Silicon Valley had not imagined, and kept finding that the information science literature had frameworks for what I was encountering while the CS literature mostly did not.
 
-  - **Advanced AI Data Trainer at Invisible Technologies (2024–Present):**
-  Trained and fine-tuned AI models using Reinforcement Learning and Supervised Learning, optimizing decision-making and reducing error rates. Conducted quality analysis to ensure ethical AI standards.
+Educational Technology entered the picture through teaching. As a TA for over 300 students at UCC, I watched the same concept land entirely differently depending on the student’s context, confidence, and the tools available. Most of those tools had been designed for a different student in a different place. The gap between the learning technology the field produces and the learning that actually needs to happen in Ghana is wide, and it is a research problem, not just a resource problem.
 
-  - **Teaching Assistant at University of Cape Coast (2024–Present):**
-  Led tutorials for 300+ students in Database Management Systems, designing assessments and providing feedback to bridge learning gaps.
-
-## 📚 Teaching & Community Engagement
-
-I actively share my expertise in Computer Science and freelancing through my [YouTube Channel](https://youtube.com/@ameseseboateng), where I create tutorials, and share resources. As a Google Developer Student Clubs (GDSC) Core Team Member, I facilitated workshops and meetups to empower student developers. My volunteer work includes training 20+ young adults in IT skills (Microsoft Office, typing) and providing technical support for community initiatives. I am also contributing to STEM Education by volunteering at Ghana Robotics Competition 2024 & 2025 by [FireflyIO](https://fireflyio.com/).
+These are the two threads of my doctoral agenda: information systems that work in the environments most of the literature ignores, and learning technology that is built for — not adapted to — the contexts where most of the world actually learns.
 
 
